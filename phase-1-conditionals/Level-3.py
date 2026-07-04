@@ -19,7 +19,7 @@ if 100 <= number <= 999:
         print("All digits are distinct.")
     else:
         print("Digits are not distinct.")
-        
+            
 
 #2
 number = int(input("Enter a 3-digit number: "))
